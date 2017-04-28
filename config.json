@@ -1,0 +1,18 @@
+{
+    "Title": "Titlepage.md",
+    "Abstract": "Summary.md",
+    "Abbrv": 1,
+    "TOC": 1,
+    "Structure": {
+        "1": "Introduction.md",
+        "2": "Literature Study.md",
+        "3": "Methods.md",
+        "4": "Results.md",
+        "5": "Discussion.md",
+        "6": "Conclusion.md"
+    },
+    "Ref": 1,
+    "App": {
+        "A": "AppendixA.md"
+    }
+}
